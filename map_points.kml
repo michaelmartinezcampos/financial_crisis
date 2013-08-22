@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>They Live</name>
+  <description><![CDATA[map of locations for thesis projec]]></description>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>North American Managers Inc</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-74.007233,40.706348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>AIG</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-74.005066,40.706524,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Federal Reserve Bank of Ny</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-74.008942,40.708305,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Goldman Sachs &amp; Co</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-74.011467,40.703922,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Federal Reserve Bank of New York</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-74.008942,40.708305,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>North American Managers Inc</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-74.007233,40.706348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bank of America</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-74.010368,40.709354,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lehman Brothers Trust Co</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-73.975563,40.749172,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Citibank</name>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-74.006683,40.704346,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>US Treasury Department</name>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-74.005867,40.714737,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Federal Home Loan</name>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-73.976303,40.751289,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Country-Wide Insurance Co</name>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-74.009697,40.706963,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Morgan Stanley Smith Barney</name>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-74.010765,40.707619,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
